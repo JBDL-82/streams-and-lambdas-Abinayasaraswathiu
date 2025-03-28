@@ -25,7 +25,7 @@ return employee;
         map.put("vimal",20000d);
         map.put("indhu",60000d);
         map.put("adhi",40000d);
-        System.out.println(topSalary(map));
+        System.out.println("Top 3 Highest paid Employees are "+topSalary(map));
 
     }
 }

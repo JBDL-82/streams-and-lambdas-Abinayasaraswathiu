@@ -22,7 +22,7 @@ public class SortEmployee {
         map.put("vimal",20000d);
         map.put("indhu",60000d);
         map.put("adhi",40000d);
-        System.out.println(sortBySalary(map));
+        System.out.println("Sorted Employees by Salary in Descending Order "+sortBySalary(map));
 
     }
 }

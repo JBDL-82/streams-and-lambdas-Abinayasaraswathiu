@@ -17,7 +17,7 @@ public class CountWords {
         return map;
     }
     public static void main(String[] args) {
-        List<String> fruits = Arrays.asList("apple", "banana", "apple");;
+        List<String> fruits = Arrays.asList("apple", "banana", "apple","orange");;
 
 System.out.println(countFruits(fruits));
 
